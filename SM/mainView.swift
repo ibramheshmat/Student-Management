@@ -4,7 +4,7 @@
 //
 //  Created by IBRAM on 1/31/19.
 //  Copyright © 2019 IBRAM. All rights reserved.
-//  hello learn 
+//  
 
 import UIKit
 import CoreData
